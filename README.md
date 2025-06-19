@@ -6,7 +6,7 @@ A complete end-to-end machine learning project to predict customer churn for a s
 - SQL for backend analytics
 - Power BI for Business Dashboards
 ---
-# ✅ Results Summary
+## ✅ Results Summary
 
 - Final model: Random Forest
 - Accuracy: 77.3%
