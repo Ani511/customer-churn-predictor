@@ -3,8 +3,7 @@ import joblib
 import numpy as np
 
 # Load model
-model = joblib.load('churn_model.pkl')
-
+model = joblib.load('app/churn_model.pkl')
 st.set_page_config(page_title="Churn Predictor", layout="centered")
 
 st.title("📉 Customer Churn Prediction App")
