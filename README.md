@@ -5,6 +5,14 @@ A complete end-to-end machine learning project to predict customer churn for a s
 - Streamlit App Deployment
 - SQL for backend analytics
 - Power BI for Business Dashboards
+---
+# ✅ Results Summary
+
+- Final model: Random Forest
+- Accuracy: 77.3%
+- ROC AUC: 0.71
+- Churn rate: ~26%
+- Most important feature: Contract type
 
 ---
 
@@ -58,6 +66,7 @@ Built multiple models:
 Includes SMOTE balancing, metrics comparison, feature importance.
 
 📓 [`EDA.ipynb`](EDA.ipynb)
+🚀 Live App: [Click here to try the Churn Predictor](https://rqksaqtxnqpiqt9nh5nmpw.streamlit.app/)
 
 ---
 
