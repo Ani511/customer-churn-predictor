@@ -31,7 +31,7 @@ The dashboard highlights:
 
 ![powerbi](./images/powerbi.png)
 
-📁 File: [`powerbi/churn_dashboard.pbix`](./powerbi/churn_dashboard.pbix)
+📁 File: [`churn_dashboard.pbix`](churn_dashboard.pbix)
 
 ---
 
