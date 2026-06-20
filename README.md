@@ -1,4 +1,4 @@
-# 🧠 Customer Churn Prediction
+# Customer Churn Prediction
 
 A complete end-to-end machine learning project to predict customer churn for a subscription-based telecom company using:
 - Python & Scikit-learn
@@ -6,7 +6,7 @@ A complete end-to-end machine learning project to predict customer churn for a s
 - SQL for backend analytics
 - Power BI for Business Dashboards
 ---
-## ✅ Results Summary
+##  Results Summary
 
 - Final model: Random Forest
 - Accuracy: 77.3%
@@ -15,7 +15,7 @@ A complete end-to-end machine learning project to predict customer churn for a s
 - Most important feature: Contract type
 ---
 
-## 📁 Project Structure
+##  Project Structure
 - app/ → Streamlit app
 - data/ → Raw CSV and SQLite DB
 - images/ → Dashboard & EDA screenshots
@@ -27,22 +27,22 @@ A complete end-to-end machine learning project to predict customer churn for a s
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
 The dashboard highlights:
 - Churn rate by contract type
 - Monthly charges and tenure effects
 - Payment method trends
 
-🖼️ Preview:
+Preview:
 
 ![powerbi](./images/powerbi.png)
 
-📁 File: [`churn_dashboard.pbix`](churn_dashboard.pbix)
+ File: [`churn_dashboard.pbix`](churn_dashboard.pbix)
 
 ---
 
-## 🔎 SQL Analysis
+##  SQL Analysis
 
 Used raw SQL to query key churn metrics via SQLite:
 
@@ -50,12 +50,12 @@ Used raw SQL to query key churn metrics via SQLite:
 - Churn rate by contract
 - Avg monthly charges (churned vs retained)
 
-🗃️ [`sql_analysis.ipynb`](sql_analysis.ipynb)  
-📄 [`queries.sql`](./sql/queries.sql)
+[`sql_analysis.ipynb`](sql_analysis.ipynb)  
+ [`queries.sql`](./sql/queries.sql)
 
 ---
 
-## 🔬 Machine Learning
+## Machine Learning
 
 Built multiple models:
 - Logistic Regression
@@ -64,12 +64,11 @@ Built multiple models:
 
 Includes SMOTE balancing, metrics comparison, feature importance.
 
-📓 [`EDA.ipynb`](EDA.ipynb)
+ [`EDA.ipynb`](EDA.ipynb)
 ---
 
-## 🌐 Streamlit Web App
-
-🚀 Live App: [Click here to try the Churn Predictor](https://rqksaqtxnqpiqt9nh5nmpw.streamlit.app/)
+##  Streamlit Web App
+ Live App: [Click here to try the Churn Predictor](https://rqksaqtxnqpiqt9nh5nmpw.streamlit.app/)
 
 Deployed app for churn prediction using trained model.
 
